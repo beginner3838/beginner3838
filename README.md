@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Hello%2C%20PhucCodeDao-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+  <img src="https://img.shields.io/badge/Hello%2C%20beginner3838-000000?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
 
   <h1>🌌 Welcome to my universe!</h1>
   <h3>Full-Stack Developer | Backend Developer</h3>
   
   <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=PhucCodeDao&color=F700FF" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=beginner3838&color=F700FF" alt="Profile Views" />
   </p>
   
 </div>
@@ -72,7 +72,7 @@
 
 ### 📊 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhucCodeDao&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beginner3838&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
